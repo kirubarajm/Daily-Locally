@@ -1,6 +1,8 @@
 # Daily Locally Repository Overview
 
-This repository provides the links and summaries for the three main components of our project:
+Daily Locally is a unified mobile platform to buy and sell D2C food products with complete transparency. It has an Android mobile app, where users can buy and list their products. The code for this project is split into three main components. 
+
+This repository provides the links and summaries for the three main components of the project:
 
 ## 1. Backend
 - **Repository:** [Backend NodeJS Server](https://github.com/kirubarajm/Dailylocally-node)
